@@ -9,6 +9,9 @@ public class First {
 		 int myNum = 15;
    		 System.out.println(myNum);
 		System.out.println(mby New );
+
+		System.out.println(modified by dev-Sourabh );
+
 		double number = 12.3;
 
         // true if number is less than 0
@@ -22,6 +25,7 @@ public class First {
         // if both test expression is evaluated to false
         else
             System.out.println(number + " is 0.");
+
 	}
 
 }
