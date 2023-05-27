@@ -7,6 +7,7 @@ public class First {
 
 		 int myNum = 15;
    		 System.out.println(myNum);
+		System.out.println(mby New );
 	}
 
 }
